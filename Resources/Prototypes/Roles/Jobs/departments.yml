@@ -96,4 +96,5 @@
   - Reporter
   - Zookeeper
   - Psychologist
+  - Prisoner
   primary: false
